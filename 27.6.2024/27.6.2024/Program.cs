@@ -157,6 +157,8 @@ namespace _27._6._2024
             //7 8 9 10
 
             //solution
+
+            //1
             //int number = 1;
             //int maxNumber = 10;
 
@@ -177,6 +179,25 @@ namespace _27._6._2024
             //    }
 
             //    // Move to the next line
+            //    Console.WriteLine();
+            //}
+
+            //2
+            //int rows = 4;
+
+            //int number = 1;
+
+            //for (int i = 1; i <= rows; i++)
+            //{
+            //    for (int j = 1; j <= rows - i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        Console.Write(number + " ");
+            //        number++;
+            //    }
             //    Console.WriteLine();
             //}
 
